@@ -13,15 +13,22 @@ Moj cytat
 
 >cytat
 
-Lista
 1. Super jeden
+  1. jeden.jeden
+  2. jeden.dwa
 2. Super dwa
-3. Super 3
+3. Super trzy
+  1. trzy.jeden
+  2. trzy.dwa
+  
 
-Lista 2
+
 * Super jeden
+  - jeden.jeden
 * Super dwa
 * Super trzy
+  - trzy.jeden
+  - trzy.dwa
 
 ~~~
 a=1
@@ -32,6 +39,6 @@ print(suma)
 
 Super kodzik `print("Super kodzik")` jeszcze jeden `print("Drugi super kodzik")`
 
-
+![src/GitHub-Mark.png](obrazek z repo)
 
 
