@@ -14,12 +14,12 @@ Moj cytat
 >cytat
 
 1. Super jeden
-  1. jeden.jeden
-  2. jeden.dwa
+-  1. jeden.jeden
+-  2. jeden.dwa
 2. Super dwa
 3. Super trzy
-  1. trzy.jeden
-  2. trzy.dwa
+-  1. trzy.jeden
+-  2. trzy.dwa
   
 
 
@@ -39,6 +39,6 @@ print(suma)
 
 Super kodzik `print("Super kodzik")` jeszcze jeden `print("Drugi super kodzik")`
 
-![src/GitHub-Mark.png](obrazek z repo)
+![src/GitHub-Mark.png](src/GitHub-Mark.png)
 
 
