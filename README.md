@@ -11,17 +11,17 @@ paragraf 3 </br>
 
 Moj cytat
 
->cytat
+>a2 + b2 = c2
 
 1. Super jeden
--  1. jeden.jeden
--  2. jeden.dwa
+  - jeden.jeden
+  - jeden.dwa
 2. Super dwa
 3. Super trzy
--  1. trzy.jeden
--  2. trzy.dwa
+  - trzy.jeden
+  - trzy.dwa
   
-
+</br>
 
 * Super jeden
   - jeden.jeden
