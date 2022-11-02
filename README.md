@@ -1,4 +1,4 @@
-##Moj plik markdown
+## Moj plik markdown
 
 paragraf 1 </br>
 ~~tekst przekreslony~~
@@ -19,9 +19,9 @@ Lista
 3. Super 3
 
 Lista 2
-*Super jeden
-*Super dwa
-*Super trzy
+* Super jeden
+* Super dwa
+* Super trzy
 
 ~~~
 a=1
