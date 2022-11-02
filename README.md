@@ -14,12 +14,12 @@ Moj cytat
 >a2 + b2 = c2
 
 1. Super jeden
-  - jeden.jeden
-  - jeden.dwa
+   * jeden.jeden
+   * jeden.dwa
 2. Super dwa
 3. Super trzy
-  - trzy.jeden
-  - trzy.dwa
+  * trzy.jeden
+  * trzy.dwa
   
 </br>
 
