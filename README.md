@@ -37,7 +37,7 @@ suma=a+b
 print(suma)
 ~~~
 
-Super kodzik `print("Super kodzik")` jeszcze jeden `print("Drugi super kodzik")`
+Super kodzik `print("Super kodzik")`, drugi `print("Drugi super kodzik")`.
 
 ![src/GitHub-Mark.png](src/GitHub-Mark.png)
 
