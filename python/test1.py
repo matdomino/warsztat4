@@ -1,10 +1,10 @@
 import unittest
 
-class Testing(unittest.TestCase):
+from python1 import silnia
+
+class TestStringMethods(unittest.TestCase):
     def test_testowy(self):
-        a = 10
-        b = 0
-        self.assertNotEqual(a, b)
+        self.assertEqual(silnia(3),6)
 
 if __name__=='__main__':
     unittest.main()
